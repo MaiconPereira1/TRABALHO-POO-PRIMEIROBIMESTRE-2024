@@ -1,0 +1,6 @@
+br\unipar\livraria\model\Endereco.class
+br\unipar\livraria\model\Livro.class
+br\unipar\livraria\model\FormaPagamento.class
+br\unipar\livraria\Livraria.class
+br\unipar\livraria\model\Cliente.class
+br\unipar\livraria\model\Venda.class
